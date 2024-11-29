@@ -1,0 +1,23 @@
+.container {
+    background-color: #1a1b2f !important;
+    color: #ffffff !important;
+    padding: 20px !important;
+    border-radius: 10px !important;
+}
+
+.btn-primary {
+    background-color: #4a90e2 !important;
+    border: none !important;
+    border-radius: 10px !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #1a1b2f !important;
+    border-radius: 50% !important;
+    padding: 10px  !important;
+}
+
+body {
+    background-color: black;
+}
